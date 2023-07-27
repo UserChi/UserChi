@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Hi👋, How are you?<br>I'm CHIOMA<br>Recent Makers boot camp graduate with a passion for coding and a drive to excel in the field of software development. <br>Proficient in Ruby, JavaScript, MERN stack, Cypress, Postman, React.js, and Node.js. <br>A collaborative team player with excellent communication skills and a focus on delivering quality work.<br>Seeking apprenticeships or junior-level positions to grow as a developer and contribute to innovative projects.<br>Dedicated to maintaining a healthy work-life balance and committed to ongoing learning and professional development.
+Hi👋, How are you?<br>I'm CHIOMA<br>Makers boot camp graduate with a passion for coding and a drive to excel in the field of software development. <br>Proficient in Ruby, JavaScript, MERN stack, Cypress, Postman, React.js, and Node.js. <br>A collaborative team player with excellent communication skills and a focus on delivering quality work.<br>Seeking apprenticeships or junior-level positions to grow as a developer and contribute to innovative projects.<br>Dedicated to maintaining a healthy work-life balance and committed to ongoing learning and professional development.
 - 🔭 I’m currently working on personal projects to develop my technical skills
 - 🌱 I’m currently learning more on Javascript and React
 - 💬 Want to know more about me? then reach out

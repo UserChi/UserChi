@@ -1,12 +1,12 @@
 ### Hi there 👋
 # 💫 About Me:
-Hi👋, How are you?<br>I'm CHIOMA<br>Makers boot camp graduate with a passion for coding and a drive to excel in the field of software development. <br>Proficient in Ruby, JavaScript, MERN stack, Cypress, Postman, React.js, and Node.js. <br>A collaborative team player with excellent communication skills and a focus on delivering quality work.<br>Seeking apprenticeships or junior-level positions to grow as a developer and contribute to innovative projects.<br>Dedicated to maintaining a healthy work-life balance and committed to ongoing learning and professional development.
+Hi👋, How are you?<br>I'm CHIOMA<br>passionate about programming and a drive to excel in the field of software development. <br>Proficient in Ruby, JavaScript, MERN stack, Cypress, Postman, React.js, and Node.js. <br>A collaborative team player with excellent communication skills and a focus on delivering quality work.<br>Currently working on personal projects whilst learning Rust and Typescript.<br>Dedicated to maintaining a healthy work-life balance and committed to ongoing learning and professional development.
 - 🔭 I’m currently working on personal projects to develop my technical skills
 - 🌱 I’m currently learning more on Javascript and React
 - 💬 Want to know more about me? then reach out
 - 📫 How to reach me: email! chiomaigwe494@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I play the Cello :)
+- ⚡ Fun fact: I played the Cello :)
 -->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chioma-igwe-856445230/) 
